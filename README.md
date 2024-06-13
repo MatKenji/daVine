@@ -73,6 +73,9 @@ O software de DaVinci foi desenvolvido em ROS2 para permitir a integração do L
 ---
 
 Para mais detalhes sobre o desenvolvimento de cada parte e as especificações técnicas dos componentes, consulte o documento completo no repositório.
+## At Work
+
+https://github.com/MatKenji/daVine/assets/169562589/cc1387ee-099c-441b-b708-c93bf97e1a2d
 
 ## Instragram
 https://www.instagram.com/_davinci_esc/
